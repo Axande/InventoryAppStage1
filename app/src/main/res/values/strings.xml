@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Inventory App Stage 1</string>
+
+    <string name="product_name">Product name</string>
+    <string name="product_price">Price: 20</string>
+    <string name="product_quantity">Quantity: 140</string>
+    <string name="supplier_name">Name of the supplier</string>
+    <string name="supplier_phone">Phone of the supplier</string>
+
+    <string name="button_insert">Insert into table</string>
+    <string name="database_details">Database details</string>
+    <string name="error">Error!</string>
+</resources>
